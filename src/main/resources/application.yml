@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: all-about-kotlin
+server:
+    port: 8443
