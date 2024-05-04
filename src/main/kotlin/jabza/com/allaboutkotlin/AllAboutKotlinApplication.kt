@@ -3,7 +3,9 @@ package jabza.com.allaboutkotlin
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
-@SpringBootApplication
+@SpringBootApplication(
+	scanBasePackages = ["com.thanabodee2661", "jabza.com"]
+)
 class AllAboutKotlinApplication
 
 fun main(args: Array<String>) {
