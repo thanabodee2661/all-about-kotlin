@@ -48,9 +48,8 @@
 
 		<dependency>
 			<groupId>com.thanabodee2661</groupId>
-			<artifactId>kotlin-common</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-
+			<artifactId>spring-common</artifactId>
+			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 
@@ -99,7 +98,7 @@
 		</repository>
 		<repository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/thanabodee2661/kotlin-common</url>
+			<url>https://maven.pkg.github.com/thanabodee2661/spring-common</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
